@@ -1,0 +1,10 @@
+ExternalStudentID,FirstName,LastName,DOB,SSN,Address,City,State,Email,MaritalSatus
+1001,Joye ,Martin,28-12-1998,12341234,TestAddress,CA,CA,Test1@gmail.com,Married
+1002,Amanda,Laurusso,03-09-1995,54341254,TestAddress,CA,CA,Test2@gmail.com,Unmarried
+1003,Samantha,Lawrence,12-10-2002,32141234,TestAddress,CA,CA,Test3@gmail.com,Unmarried
+1004,Miguel,Diaz,04-11-2000,21441234,TestAddress,CA,CA,Test4@gmail.com,Married
+1005,Robby,Keene,27-08-1999,68141247,TestAddress,CA,CA,Test5@gmail.com,Married
+1006,Amanda,Laurusso,03-09-1995,54341254,TestAddress,CA,CA,Test2@gmail.com,Unmarried
+1007,Joye ,Martin,28-12-1998,12341234,TestAddress,CA,CA,Test1@gmail.com,Married
+1008,Miguel,Diaz,04-11-2000,21441234,TestAddress,CA,CA,Test4@gmail.com,Married
+1009,Miguel,Diaz,04-11-2000,21441234,TestAddress,CA,CA,Test4@gmail.com,Married
