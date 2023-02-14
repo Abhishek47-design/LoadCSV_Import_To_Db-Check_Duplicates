@@ -1,0 +1,11 @@
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\bin\Debug\LoadCSV.exe.config
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\bin\Debug\LoadCSV.exe
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\bin\Debug\LoadCSV.pdb
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.csproj.AssemblyReference.cache
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.Form1.resources
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.Properties.Resources.resources
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.csproj.GenerateResource.cache
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.csproj.CoreCompileInputs.cache
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.exe
+C:\Users\AbhishekR\source\repos\LoadCSV\LoadCSV\obj\Debug\LoadCSV.pdb
